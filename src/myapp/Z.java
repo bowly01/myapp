@@ -1,5 +1,5 @@
 package myapp;
 
-public class Z {
-    private String name = "eiei";
+public class Z extends Dog{
+    private String name;
 }
